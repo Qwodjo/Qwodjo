@@ -1,16 +1,35 @@
-## Hi there 👋
+# hey, i'm qwodjo 👋
 
-<!--
-**Qwodjo/Qwodjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**junior data engineer** based in Accra, Ghana
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## about me
+
+I build scalable data pipelines and infrastructure. Python-first developer, open source contributor, and AI data trainer.
+
+
+## skills
+
+- **Data Engineering**: Apache Spark, Airflow, ETL/ELT pipelines
+- **Tools**: Docker, Kubernetes, Linux
+- **Languages**: Python, SQL
+- **Cloud**: AWS (Certified Cloud Practitioner)
+- **Expertise**: AI data training, data infrastructure
+
+
+## what i'm working on
+
+- Smart city project
+- Open source contributions
+- AI data training
+
+
+## fun facts
+
+- ☁️ AWS Certified Cloud Practitioner
+- 🎓 Certified AI Data Trainer
+- 🚀 Building data systems at scale
+- 💡 Always learning & contributing
+
+
+📱 **[Connect with me on LinkedIn](www.linkedin.com/in/enoch-asamoah-127864293)**
