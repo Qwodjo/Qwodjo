@@ -4,7 +4,7 @@
 
 ## about me
 
-I build scalable data pipelines and infrastructure. Python-first developer, open source contributor, and AI data trainer.
+I build scalable data pipelines and infrastructure. Python-first developer, open source contributor, AI automations and AI data trainer.
 
 ## skills
 
@@ -12,7 +12,7 @@ I build scalable data pipelines and infrastructure. Python-first developer, open
 - **Tools**: Docker, Kubernetes, Linux
 - **Languages**: Python, SQL
 - **Cloud**: AWS (Certified Cloud Practitioner)
-- **Expertise**: AI data training, data infrastructure
+- **Expertise**: AI data training, data infrastructure, AI automation
 
 ## what i'm working on
 
@@ -22,10 +22,11 @@ I build scalable data pipelines and infrastructure. Python-first developer, open
 
 ## fun facts
 
-- ☁️ AWS Certified Cloud Practitioner
-- 🎓 Certified AI Data Trainer
-- 🚀 Building data systems at scale
-- 💡 Always learning & contributing
+- AWS Certified Cloud Practitioner
+- Certified AI Data Trainer
+- Certified Kubernetes and cloud native Associate
+- Building data systems at scale
+- Always learning & contributing
 
 
-📱 **[Connect with me on LinkedIn](www.linkedin.com/in/enoch-asamoah-127864293)**
+📱 **[Connect with me on LinkedIn](https://www.linkedin.com/in/enoch-asamoah-127864293)
